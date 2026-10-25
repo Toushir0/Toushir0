@@ -1,6 +1,6 @@
 ### Hey there! 🫡
 
-I'm [Sumanta], an Information Technology undergrad at Jalpaiguri Government Engineering College (JGEC).
+I'm Sumanta, an Information Technology undergrad at Jalpaiguri Government Engineering College (JGEC).
 
 I like building fast, reliable software and making sure it actually feels good to use.
 
@@ -16,4 +16,4 @@ Always open to collaborating on open-source projects, internships, or interestin
 * 🐧 **Daily driver:** Linux
 * 💡 **Currently exploring:** Data Structures & Algorithms, Systems Programming, and Design Systems
 * 🎨 **Design philosophy:** Simple, functional, and zero clutter
-* ☕ **Off-screen:** [Football/ Gaming/ Riding]
+* ☕ **Off-screen:** Football/ Gaming/ Riding
